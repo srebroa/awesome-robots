@@ -58,6 +58,12 @@
   Open-source robotic arm ecosystem used for education and manipulation demos.  
   https://github.com/ROBOTIS-GIT/open_manipulator
 
+- **SO-ARM 102**
+  ![GitHub stars](https://img.shields.io/github/stars/roboninecom/SO-ARM-102?style=social)
+  ![Last commit](https://img.shields.io/github/last-commit/roboninecom/SO-ARM-102?label=last%20update)
+  3D-printable leader-follower arm with a parallel gripper, CAD files, BOM, and assembly instructions for LeRobot teleoperation.
+  https://github.com/roboninecom/SO-ARM-102
+
 - **Poppy Ergo Jr**  
   ![GitHub stars](https://img.shields.io/github/stars/poppy-project/poppy-ergo-jr?style=social)
   ![Last commit](https://img.shields.io/github/last-commit/poppy-project/poppy-ergo-jr?label=last%20update)  
